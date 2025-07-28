@@ -16,7 +16,7 @@
 - App Architecture: MVVM (for iOS apps)
 
 ## My Education
-<img width="50" height="50" alt="Screenshot 2025-07-22 at 1 55 24 PM" src="https://github.com/user-attachments/assets/be3a3d2d-de95-4015-a62f-c8d43f0299d9" /> Central Asian University 
+<img width="50" height="50" alt="Screenshot 2025-07-28 at 11 30 58 AM" src="https://github.com/user-attachments/assets/d87d6db8-89d0-4c47-97e8-0ae574dc11c3" /> Central Asian University 
 
 Bachelor’s Degree in Computer Science  |  September 2023 - May 2027  
  - Computer Scince (Data Science, Software Engineering)
@@ -24,7 +24,7 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 
 ## My Experience
 
-<img width="50" height="50" alt="Screenshot 2025-07-21 at 10 13 29 AM" src="https://github.com/user-attachments/assets/7143394f-79d0-4840-a425-354953940fec" /> IMANUM app | May 2025 - Until Now
+<img width="40" height="40" alt="Screenshot 2025-07-28 at 11 27 30 AM" src="https://github.com/user-attachments/assets/7103fc94-6c88-408b-9e4d-791c0a138d7c" /> IMANUM app | May 2025 - Until Now
 
   Data Scientist
 
@@ -36,7 +36,7 @@ Tools: Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL)
 <br>
 <br>
 
-<img width="40" height="40" alt="sarkor-logo" src="https://github.com/user-attachments/assets/79f484ae-4d56-46a8-b0c2-5dafe63e780c" />  Sarkor Telecom | Feb 2025 - April 2025
+<img width="40" height="40" alt="Frame 3" src="https://github.com/user-attachments/assets/ab538552-750f-4c33-9163-8e5722b77ded" /> Sarkor Telecom | Feb 2025 - April 2025
 
 BI Analyst
 
@@ -49,7 +49,7 @@ BI Analyst
 <br>
 
 
- <img width="40" height="40" alt="Frame 2" src="https://github.com/user-attachments/assets/7543a85f-dfd1-413c-bc88-ee7ccd6d8488" /> SsHub | September 2024 - December 2024
+<img width="40" height="40" alt="Frame 1" src="https://github.com/user-attachments/assets/34a6b544-4f2d-46a8-9369-77f793ed4ee0" /> SsHub | September 2024 - December 2024
 
   Data Science Intern
 - Cleaned and analyzed (EDA) customer data to identify key churn indicators
@@ -60,4 +60,5 @@ Tools: Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL, 
 
 
 ## LeetCode Statistics
-<img width="343" alt="Screenshot 2025-05-27 at 5 29 51 PM" src="https://github.com/user-attachments/assets/7ba6ce26-12a0-4cd9-bec3-8730d92f44ad" />
+<img width="352" height="121" alt="Screenshot 2025-07-28 at 11 30 00 AM" src="https://github.com/user-attachments/assets/ef3f25e8-968d-4d41-b384-b0ccd1ff7b95" />
+
