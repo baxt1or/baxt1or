@@ -24,7 +24,7 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 
 ## My Experience
 
-<img width="40" height="40" alt="Screenshot 2025-07-28 at 11 27 30 AM" src="https://github.com/user-attachments/assets/7103fc94-6c88-408b-9e4d-791c0a138d7c" /> IMANUM app | May 2025 - Until Now
+<img width="50" height="50" alt="iman 1" src="https://github.com/user-attachments/assets/0110f864-9829-4804-af97-9975f5d084a8" /> IMANUM app | May 2025 - Until Now
 
   Data Scientist
 
