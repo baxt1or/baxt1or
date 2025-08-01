@@ -16,7 +16,7 @@
 - App Architecture: MVVM (for iOS apps)
 
 ## My Education
-<img width="50" height="50" alt="Screenshot 2025-07-28 at 11 30 58 AM" src="https://github.com/user-attachments/assets/d87d6db8-89d0-4c47-97e8-0ae574dc11c3" /> Central Asian University 
+<img width="70" height="70" alt="Screenshot 2025-07-28 at 11 30 58 AM" src="https://github.com/user-attachments/assets/d87d6db8-89d0-4c47-97e8-0ae574dc11c3" /> Central Asian University 
 
 Bachelor’s Degree in Computer Science  |  September 2023 - May 2027  
  - Computer Scince (Data Science, Software Engineering)
