@@ -26,23 +26,23 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 
 <img width="60" height="60" alt="iman 1" src="https://github.com/user-attachments/assets/0110f864-9829-4804-af97-9975f5d084a8" /> **IMANUM SuperApp** | May 2025 - Until Now
 
-  Data Scientist
+  **Data Scientist**
 
 - Risk Models and Analysis
 
 
-Tools: Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL)
+**Tools:** Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL)
 
 <br>
 <br>
 
 <img width="40" height="40" alt="Frame 3" src="https://github.com/user-attachments/assets/ab538552-750f-4c33-9163-8e5722b77ded" /> **Sarkor Telecom** | Feb 2025 - April 2025
 
-BI Analyst
+**BI Analyst**
 
 - Designed and tracked key performance indicators (KPIs) across departments  
 
-  Tools: Qlik Sense, SQL (PostgreSQL)
+  **Tools:** Qlik Sense, SQL (PostgreSQL)
 
 
 <br>
@@ -51,11 +51,11 @@ BI Analyst
 
 <img width="40" height="40" alt="Frame 1" src="https://github.com/user-attachments/assets/34a6b544-4f2d-46a8-9369-77f793ed4ee0" /> **SsHub** | September 2024 - December 2024
 
-  Data Science Intern
+  **Data Science Intern**
 - Cleaned and analyzed (EDA) customer data to identify key churn indicators
 - Improved model accuracy through feature engineering
 
-Tools: Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL, Clickhouse)
+**Tools:** Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL, Clickhouse)
 
 
 
