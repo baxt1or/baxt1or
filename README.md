@@ -49,14 +49,6 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 <br>
 
 
-<img width="40" height="40" alt="Frame 1" src="https://github.com/user-attachments/assets/34a6b544-4f2d-46a8-9369-77f793ed4ee0" /> **SsHub** | September 2024 - December 2024
-
-  **Data Science Intern**
-- Cleaned and analyzed (EDA) customer data to identify key churn indicators
-- Improved model accuracy through feature engineering
-
-**Tools:** Python(pandas, numpy, scikit-learn,matplotlib, seaborn), SQL(PostgreSQL, Clickhouse)
-
 
 
 ## LeetCode Statistics
