@@ -36,7 +36,7 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 <br>
 <br>
 
-<img width="40" height="40" alt="Frame 3" src="https://github.com/user-attachments/assets/ab538552-750f-4c33-9163-8e5722b77ded" /> **Sarkor Telecom** | Feb 2025 - April 2025
+<img width="40" height="40" alt="Frame 3" src="https://github.com/user-attachments/assets/ab538552-750f-4c33-9163-8e5722b77ded" /> **Sarkor Telecom** | Jan 2025 - April 2025
 
 **BI Analyst**
 
