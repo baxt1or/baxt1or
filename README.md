@@ -10,10 +10,8 @@
 #### Data Science & Analytics
 - Programming Languages & Libraries: Python (NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
 - Data Visualization & BI: seaborn, matplotlib, Apache Superset, Qlik Sense
+- Low Level Languages: C/C++
 
-#### Software Engineering (Mobile App Development)
-- Programming Languages: Swift (iOS Development), Python (Backend Development)
-- App Architecture: MVVM (for iOS apps)
 
 ## My Education
 <img width="40" height="40" alt="Screenshot 2025-07-28 at 11 30 58 AM" src="https://github.com/user-attachments/assets/d87d6db8-89d0-4c47-97e8-0ae574dc11c3" /> **Central Asian University** 
