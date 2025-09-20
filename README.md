@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love exploring machine learning models and building mobile apps, but I’m still getting used to coding every day with a cup of a coffee!
 
 ## My Technical Skills
-#### Data Science & Analytics
+#### Data Science, Analytics, Machine Learning and Software Engineering
 - Programming Languages & Libraries: Python (NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
 - Data Visualization & BI: seaborn, matplotlib, Apache Superset, Qlik Sense
 - Low Level Languages: C/C++
