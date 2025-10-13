@@ -20,6 +20,4 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
  - Computer Scince (Data Science, Software Engineering)
 
 
-## LeetCode Statistics
-<img width="352" height="121" alt="Screenshot 2025-07-28 at 11 30 00 AM" src="https://github.com/user-attachments/assets/ef3f25e8-968d-4d41-b384-b0ccd1ff7b95" />
 
