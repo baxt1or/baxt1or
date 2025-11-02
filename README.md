@@ -1,14 +1,16 @@
 ## About Me
-- 👋 Hi, I’m Baxtiyor Farhod Ogli Bekmurodov 
-- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
-- 🌱 I’m currently pursuing a Bachelor’s in Computer Science at CAU
-- ⚡ Fun fact: I love exploring machine learning models and building mobile apps, but I’m still getting used to coding every day with a cup of a coffee!
+- 👋 Hi, I'm Baxtiyor Farhod Ogli Bekmurodov  
+- 🎓 B.Sc. Computer Science @ Central Asian University (2023–2027)  
+- 🌱 Passionate about Data Science, Machine Learning & Deep Learning  
+- 💡 Exploring applied ML, risk modeling, and end-to-end AI systems  
+- ☕ Fun fact: I can't start coding without a cup of coffee 😄  
 
-## My Technical Skills
-#### Data Science, Analytics, ML and DL
-- Programming Languages & Libraries: Python (PyTorch, NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
-- Data Visualization & BI: Qlik Sense, seaborn, matplotlib
-- Low Level Languages: C/C++
+## Technical Skills
+#### Data Science, Machine Learning & Deep Learning
+- **Python:** PyTorch, NumPy, Pandas, scikit-learn  
+- **Databases:** PostgreSQL, SQLite, ClickHouse  
+- **Visualization / BI:** Qlik Sense, seaborn, matplotlib  
+- **Systems & Low-Level:** C/C++  
 
 
 ## My Education
@@ -24,10 +26,10 @@ B.Sc. in Computer Science (Data Science & Software Engineering)
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img align="left" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="40" height="30"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="30"/>
 </a>
 <a href="https://www.instagram.com/baxt1or/" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="30"/>
 </a>
 <a href="https://www.youtube.com/@baxtioor" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"/>
