@@ -26,7 +26,7 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+  <img align="left" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)" width="40" height="30"/>
 </a>
 <a href="https://github.com/YOUR_USERNAME" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"/>
