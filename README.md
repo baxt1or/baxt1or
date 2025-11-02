@@ -1,15 +1,13 @@
 ## About Me
-- 👋 Hi, I’m Baxtiyor Farhodogli Bekmurodov 
-- 👀 I’m interested in Data Science, Machine Learning, and Mobile App development
+- 👋 Hi, I’m Baxtiyor Farhod Ogli Bekmurodov 
+- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
 - 🌱 I’m currently pursuing a Bachelor’s in Computer Science at CAU
-- 💞️ I’m looking to collaborate on Data Science, NLP, and Mobile App Development
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I love exploring machine learning models and building mobile apps, but I’m still getting used to coding every day with a cup of a coffee!
 
 ## My Technical Skills
 #### Data Science, Analytics, Machine Learning and Software Engineering
-- Programming Languages & Libraries: Python (NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
-- Data Visualization & BI: seaborn, matplotlib, Apache Superset, Qlik Sense
+- Programming Languages & Libraries: Python (PyTorch, NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
+- Data Visualization & BI: Qlik Sense, seaborn, matplotlib
 - Low Level Languages: C/C++
 
 
@@ -26,11 +24,11 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img align="left" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.icons8.com/ios-filled/50/0077B5/linkedin.png)" width="40" height="30"/>
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"/>
+<a href="https://www.instagram.com/baxt1or/" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
 </a>
-<a href="https://t.me/YOUR_USERNAME" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" width="40" height="30"/>
+<a href="https://www.youtube.com/@baxtioor" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"/>
 </a>
