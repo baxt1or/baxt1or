@@ -20,4 +20,17 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
  - Computer Scince (Data Science, Software Engineering)
 
 
+## LeetCode Stats
+<img width="341" height="112" alt="Screenshot 2025-11-02 at 9 15 30 PM" src="https://github.com/user-attachments/assets/aa0f7461-b295-437b-9001-de4e4106b871" />
 
+## Connect With Me
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"/>
+</a>
+<a href="https://t.me/YOUR_USERNAME" target="_blank">
+  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" width="40" height="30"/>
+</a>
