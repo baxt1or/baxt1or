@@ -5,7 +5,7 @@
 - ⚡ Fun fact: I love exploring machine learning models and building mobile apps, but I’m still getting used to coding every day with a cup of a coffee!
 
 ## My Technical Skills
-#### Data Science, Analytics, Machine Learning and Software Engineering
+#### Data Science, Analytics, ML and DL
 - Programming Languages & Libraries: Python (PyTorch, NumPy, Pandas, scikit-learn), SQL (PostgreSQL, SQLite, ClickHouse)
 - Data Visualization & BI: Qlik Sense, seaborn, matplotlib
 - Low Level Languages: C/C++
@@ -14,8 +14,8 @@
 ## My Education
 <img width="40" height="40" alt="Screenshot 2025-07-28 at 11 30 58 AM" src="https://github.com/user-attachments/assets/d87d6db8-89d0-4c47-97e8-0ae574dc11c3" /> **Central Asian University** 
 
-Bachelor’s Degree in Computer Science  |  September 2023 - May 2027  
- - Computer Scince (Data Science, Software Engineering)
+B.Sc. in Computer Science (Data Science & Software Engineering)
+2023 — 2027
 
 
 ## LeetCode Stats
@@ -24,7 +24,7 @@ Bachelor’s Degree in Computer Science  |  September 2023 - May 2027
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+  <img align="left" src="https://img.icons8.com/color/48/linkedin-circled--v1.png" width="40" height="30"/>
 </a>
 <a href="https://www.instagram.com/baxt1or/" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
