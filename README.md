@@ -23,7 +23,7 @@
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="30"/>
 </a>
 <a href="https://www.instagram.com/baxt1or/" target="_blank">
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40" height="40"/>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30"/>
 </a>
 <a href="https://www.youtube.com/@baxtioor" target="_blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="30"/>
