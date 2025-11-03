@@ -19,7 +19,7 @@
 
 ## Connect With Me
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/bakhtiyor-bekmurodov-b7aa1638a/" target="_blank">
   <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="40" height="30"/>
 </a>
 <a href="https://www.instagram.com/baxt1or/" target="_blank">
