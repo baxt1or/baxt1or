@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I'm Baxtiyor Farhod Ogli Bekmurodov  
-- 🎓 B.Sc. Computer Science @ Central Asian University (2023–2027)  
+- 🎓 B.Sc. Computer Science @ Central Asian University   
 - 🌱 Passionate about Data Science, Machine Learning & Deep Learning  
 - 💡 Exploring applied ML, risk modeling, and end-to-end AI systems  
 - ☕ Fun fact: I can't start coding without a cup of coffee 😄  
