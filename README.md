@@ -13,16 +13,20 @@
 
 
 
-### 🎓 Education
+### Education
 <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" /> **Bachelor’s in Computer Science — CAU**  
 
 
-### 💼 Work
-**Data Scientist — Ucell (Risk & Big Data)**  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ucell_logo.svg/2560px-Ucell_logo.svg.png" width="200"/>
+### Experience
+**Data Scientist — IMAN (Risk & Big Data)** ![photo_2025-12-12 11 14 36 PM](https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572)
 
-**LLM & CV Engineer — AvacadaSoft / MohirAI**  
-<img src="https://mohir.ai/wp-content/uploads/2023/02/cropped-1.png" width="160"/>
+
+- Credit Risk Models
+- Feature Engineering
+- Ad-Hocs
+  
+**BI Analyst - Sarkor**  ![508689048_17842037778522346_5399693990771751880_n](https://github.com/user-attachments/assets/7213f2e1-f640-4da1-9daf-48b98bf2b1ff)
+
 
 
 
