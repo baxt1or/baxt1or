@@ -17,15 +17,15 @@
 <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" /> **Bachelor’s in Computer Science — CAU**  
 - ML/NLP and Transformers
 - Low-Level Programming C++
-- Operating Systems
+- Operating Systems Linux/C
   
 
 ### Experience
-**Data Scientist — IMAN (Risk & Big Data)** <img width="30" height="30" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572" />
+**Data Scientist — IMAN (Risk & Big Data)** <img width="40" height="40" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572" />
 
-- Credit Risk Models
-- Feature Engineering
-- Ad-Hocs
+- Credit Risk Models (PD)
+- Build Feature Engineering Store Pipelines 
+- Performed Ad-Hocs
   
 **BI Analyst - Sarkor**  <img width="30" height="30" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/7213f2e1-f640-4da1-9daf-48b98bf2b1ff" />
 - ETL pipelines in Qlik Sense
