@@ -18,16 +18,13 @@
 
 
 ### Experience
-**Data Scientist — IMAN (Risk & Big Data)** ![photo_2025-12-12 11 14 36 PM](https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572)
-
+**Data Scientist — IMAN (Risk & Big Data)** <img width="70" height="70" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572" />
 
 - Credit Risk Models
 - Feature Engineering
 - Ad-Hocs
   
-**BI Analyst - Sarkor**  ![508689048_17842037778522346_5399693990771751880_n](https://github.com/user-attachments/assets/7213f2e1-f640-4da1-9daf-48b98bf2b1ff)
-
-
+**BI Analyst - Sarkor**  <img width="70" height="70" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/7213f2e1-f640-4da1-9daf-48b98bf2b1ff" />
 
 
 ## LeetCode Stats
