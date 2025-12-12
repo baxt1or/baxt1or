@@ -13,6 +13,20 @@
 
 
 
+### 🎓 Education
+**Bachelor’s in Computer Science — CAU**  
+ <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" />
+
+
+### 💼 Work
+**Data Scientist — Ucell (Risk & Big Data)**  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ucell_logo.svg/2560px-Ucell_logo.svg.png" width="200"/>
+
+**LLM & CV Engineer — AvacadaSoft / MohirAI**  
+<img src="https://mohir.ai/wp-content/uploads/2023/02/cropped-1.png" width="160"/>
+
+
+
 ## LeetCode Stats
 <img width="341" height="112" alt="Screenshot 2025-11-02 at 9 15 30 PM" src="https://github.com/user-attachments/assets/aa0f7461-b295-437b-9001-de4e4106b871" />
 
