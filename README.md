@@ -1,6 +1,6 @@
 ## About Me
-- 👋 Hi, I'm Baxtiyor Farhod Ogli Bekmurodov  
-- 🌱 Passionate about Data Science, Machine Learning & Deep Learning  
+- 👋 Hi, I'm Bakhtiyor Farhod Ogli Bekmurodov  
+- 🌱 I'm Data Scienctist with focus on Transformers(LLM), Deep Learning
 - 💡 Exploring applied ML, risk modeling, and end-to-end AI systems  
 - ☕ Fun fact: I can't start coding without a cup of coffee 😄  
 
@@ -14,8 +14,7 @@
 
 
 ### 🎓 Education
-**Bachelor’s in Computer Science — CAU**  
- <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" />
+**Bachelor’s in Computer Science — CAU**   <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" />
 
 
 ### 💼 Work
