@@ -14,7 +14,7 @@
 
 
 ### 🎓 Education
-**Bachelor’s in Computer Science — CAU**   <img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" />
+<img width="120" height="50" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/6b36b618-24c5-49d9-8bf5-0d40af0bafc2" /> **Bachelor’s in Computer Science — CAU**  
 
 
 ### 💼 Work
