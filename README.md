@@ -21,7 +21,7 @@
   
 
 ### Experience
-<img width="40" height="40" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572" /> **Data Scientist — IMAN (Risk & Big Data)** - 2025 - Untill now
+<img width="40" height="40" alt="Screenshot 2025-12-12 at 11 09 47 PM" src="https://github.com/user-attachments/assets/3a4bb72e-e08e-43e6-b845-e823ecd76572" /> **Data Scientist — IMAN (Risk & Big Data)** - May 2025 - Jan 2026
 
 - Credit Risk Models (PD)
 - Build Feature Engineering Store Pipelines 
